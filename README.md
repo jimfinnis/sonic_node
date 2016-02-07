@@ -4,8 +4,8 @@ the SonicAESSynth (and later SonicAES itself) to be used.
 ##Services
 |name|args|function|
 |---|---|
-cmd|command string|execute a synth command|
-runfile|filename|run a file of commands|
+|cmd|command string|execute a synth command|
+|runfile|filename|run a file of commands|
 
 
 
