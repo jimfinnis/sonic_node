@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>sonic</name>
+  <version>0.0.0</version>
+  <description>The sonic package, for SonicAES</description>
+  <maintainer email="jim.finnis@gmail.com">white</maintainer>
+  <license>MIT</license>
+  <url type="website">https://github.com/jimfinnis/sonicAES</url>
+  <author email="jim.finnis@gmail.com">white</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>  <run_depend>message_runtime</run_depend>
+</package>
